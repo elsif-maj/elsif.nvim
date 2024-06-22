@@ -1,3 +1,7 @@
+NB: This is a fork and slight modification of Alabaster Color scheme for my personal use.
+
+-----
+
 Alabaster Color Scheme
 ===
 
